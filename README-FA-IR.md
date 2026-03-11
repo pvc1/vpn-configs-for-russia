@@ -274,15 +274,6 @@ b) **اگر هیچ‌چیزی کار نمی‌کند** به‌جز Yandex.ru، G
   
    `karing_1.2.10.1300_macos_universal.dmg` برای MacOS
    
-**4)** **Singbox-launcher:** 
-
-  *کلاینت جدیدی که برای تست کانفیگ‌ها ارزش امتحان‌کردن دارد و همراه Sing-Box کار می‌کند. امتحانش کنید — توسعه‌دهنده فعال و پاسخ‌گوست.*
-
-   https://github.com/Leadaxe/singbox-launcher/releases
-
-   `singbox-launcher-v0.7.1-win64.zip` برای Windows
-  
-   `singbox-launcher-v0.7.1-macos.zip` برای MacOS
 
 ### <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3aGcxcG8yMGNzOTNmZDE1Z3hob3V3ajU4dmhkdnhsY2doMXFrNXowMyZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/oFSDc1Oq12Ie5NJnmA/giphy.gif" width="20"> iOS — از Streisand، Shadowrocket، Karing، V2Box یا v2RayTun از App Store استفاده کنید.
 
