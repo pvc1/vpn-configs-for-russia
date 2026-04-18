@@ -1,6 +1,21 @@
 # profile-title: 🏳️ БЕЛЫЕ СПИСКИ 🏳️ WHITE LISTS | CIDR | Mobile-150-(2)
 # profile-update-interval: 5
-# Date/Time: 2026-04-18 / 02:38 (Moscow)
-# Количество: 0
+# Date/Time: 2026-04-18 / 03:25 (Moscow)
+# Количество: 15
 # For more info and VPN-configs - visit: www.github.com/igareck/vpn-configs-for-russia
 
+vless://333e48bd-bbe9-0004-bac4-fde418d9e0f1@tlc.convert24.ru:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=ads.x5.ru&fp=chrome&pbk=HFlu11M_xqBayi6pD2ZyC30VobHLofr4JpndMGC6OjI&sid=0d3c8408d1c8fecb#%F0%9F%87%AB%F0%9F%87%B7%20France%20%5B%2ACIDR%5D%20VK
+vless://333e48bd-bbe9-4f9d-bac4-fde418d9e0f1@95.163.212.245:443?encryption=none&type=xhttp&security=tls&host=fr.convert24.ru&path=%2Fde&extra=null&fp=chrome&sni=fr.convert24.ru&alpn=h2%2Chttp%2F1.1#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%7C%20%F0%9F%8C%90%20%7C%20%5BIPv6%5D%20%5B%2ACIDR%5D%20VK
+vless://333e48bd-bbe9-4f9d-bac4-fde418d9e0f1@95.163.212.245:443?encryption=none&type=xhttp&security=tls&host=fr.convert24.ru&path=%2Fde&mode=packet-up&extra=null&fp=chrome&sni=fr.convert24.ru&alpn=h2%2Chttp%2F1.1#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%7C%20%F0%9F%8C%90%20%7C%20%5BIPv6%5D%20%5B%2ACIDR%5D%20VK
+vless://333e48bd-bbe9-4f9d-bac4-fde418d9e0f1@fr.convert24.ru:443?type=xhttp&security=tls&encryption=none&fp=chrome&sni=fr.convert24.ru&path=/de&host=fr.convert24.ru&mode=packet-up&alpn=h2%2Chttp/1.1#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%7C%20%F0%9F%8C%90%20%7C%20%5BIPv6%5D%20%5B%2ACIDR%5D%20VK
+vless://defcff2a-fcdf-41c2-aeb6-4f6d874c2d98@158.160.205.146:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=5post-gate.x5.ru&fp=chrome&security=reality&pbk=OCRYYq4e92sQ-wWFRX6WX9pdvuFBWOqybLhpSiv3nFA&sid=111111&packetEncoding=xudp#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%7C%20%F0%9F%8C%90%20%5B%2ACIDR%5D%20YA
+vless://333e48bd-bbe9-4f9d-bac4-fde418d9e0f1@95.163.212.245:443?type=xhttp&security=tls&path=/ru&sni=fr.convert24.ru&fp=chrome#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D%20VK
+vless://333e48bd-bbe9-4f9d-bac4-fde418d9e0f1@fr.convert24.ru:443?type=xhttp&security=tls&encryption=none&sni=fr.convert24.ru&path=/ru&host=fr.convert24.ru&mode=packet-up&alpn=h2%2Chttp/1.1#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D%20VK
+vless://0841010d-d901-499f-b68e-b993d6f53d9a@158.160.240.76:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=5post-gate.x5.ru&pbk=XguLRlc-hWqFhf8-KTxtCE434F6e4Hiqoc5cTBpLxnE&sid=111111#%F0%9F%8C%90%20Anycast-IP%20%7C%20%5BIPv6%5D%20%5B%2ACIDR%5D%20YA
+vless://4b0a2c7e-eabe-4701-8201-86dac3ae5f87@158.160.240.76:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=XguLRlc-hWqFhf8-KTxtCE434F6e4Hiqoc5cTBpLxnE&security=reality&sid=111111&sni=5post-gate.x5.ru&type=tcp#%F0%9F%8C%90%20Anycast-IP%20%7C%20%5BIPv6%5D%20%5B%2ACIDR%5D%20YA
+vless://88203033-6061-42b7-bb2e-d6fcafca094f@158.160.240.76:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=5post-gate.x5.ru&pbk=XguLRlc-hWqFhf8-KTxtCE434F6e4Hiqoc5cTBpLxnE&sid=111111#%F0%9F%8C%90%20Anycast-IP%20%7C%20%5BIPv6%5D%20%5B%2ACIDR%5D%20YA
+vless://b5dea461-87c0-41ec-9d66-173427932166@158.160.240.76:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=XguLRlc-hWqFhf8-KTxtCE434F6e4Hiqoc5cTBpLxnE&security=reality&sid=111111&sni=5post-gate.x5.ru&type=tcp#%F0%9F%8C%90%20Anycast-IP%20%7C%20%5BIPv6%5D%20%5B%2ACIDR%5D%20YA
+vless://b5dea461-87c0-41ec-9d66-173427932166@158.160.240.76:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=5post-gate.x5.ru&pbk=XguLRlc-hWqFhf8-KTxtCE434F6e4Hiqoc5cTBpLxnE&sid=111111#%F0%9F%8C%90%20Anycast-IP%20%7C%20%5BIPv6%5D%20%5B%2ACIDR%5D%20YA
+vless://ce6f3864-fbf9-43f0-9ed5-c0dbaffef5c3@158.160.240.76:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=5post-gate.x5.ru&pbk=XguLRlc-hWqFhf8-KTxtCE434F6e4Hiqoc5cTBpLxnE&sid=111111#%F0%9F%8C%90%20Anycast-IP%20%7C%20%5BIPv6%5D%20%5B%2ACIDR%5D%20YA
+vless://de809cab-b03e-4ad3-b886-6177f01deb2d@158.160.240.76:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=qq&pbk=XguLRlc-hWqFhf8-KTxtCE434F6e4Hiqoc5cTBpLxnE&sid=111111&sni=5post-gate.x5.ru#%F0%9F%8C%90%20Anycast-IP%20%7C%20%5BIPv6%5D%20%5B%2ACIDR%5D%20YA
+vless://defcff2a-fcdf-41c2-aeb6-4f6d874c2d98@158.160.240.76:443?type=tcp&security=reality&flow=xtls-rprx-vision&sni=5post-gate.x5.ru&pbk=XguLRlc-hWqFhf8-KTxtCE434F6e4Hiqoc5cTBpLxnE&fp=qq&sid=111111#%F0%9F%8C%90%20Anycast-IP%20%7C%20%5BIPv6%5D%20%5B%2ACIDR%5D%20YA
