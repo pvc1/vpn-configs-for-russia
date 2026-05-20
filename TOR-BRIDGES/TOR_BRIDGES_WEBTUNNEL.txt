@@ -1,6 +1,6 @@
 # profile-title: 🧅 TOR BRIDGES 🧅 Webtunnel
 # profile-update-interval: 6
-# Date/Time: 2026-05-20 / 15:22 (Moscow)
+# Date/Time: 2026-05-20 / 19:22 (Moscow)
 # Количество: 20
 # For more info, VPN configs and TOR bridges - visit: www.github.com/igareck/vpn-configs-for-russia
 
@@ -15,9 +15,9 @@ webtunnel [2001:db8:6589:5555:e62f:68ab:8983:8e01]:443 98422E9D1648FFDB8F16C06CF
 webtunnel [2001:db8:77d3:3892:39fc:d459:869c:44e0]:443 B6650B31F73D0E82DFDD6302233AEA7DBA984DC1 url=https://dev.dumkatze.de/unpack-skinny-purr ver=0.0.3
 webtunnel [2001:db8:82bb:9797:28:8f8c:9f22:3819]:443 A09B3B0794B87D61F055A35C42FD9C3AE61C8168 url=https://cdn-24.triplebit.dev/ltEw6VdiVdI4PiBeq4fjz4yn ver=0.0.2
 webtunnel [2001:db8:a273:b501:5987:3660:5d1b:1603]:443 082B13E0A1E5D8D2585B6C84914B1810B7E884EC url=https://s3.vlue.dev/s33gf0iiidqo9lacdqzbjgy6 ver=0.0.3
+webtunnel [2001:db8:a6a7:b5e0:79ea:2feb:bd25:1692]:443 80BD5CE2FC5688C7B39DB8F115A3C90CA1D72364 url=https://nauka.edu.eu.org/O3t4PGJbeVJ68N5St5HMW7DE ver=0.0.4
 webtunnel [2001:db8:ad13:e588:6629:afd2:cc58:6af5]:443 B51FD3150E208A600D00BCA5963B0EF5C867574F url=https://rot.ronaak.eu:443/iUFRXvAp3E3MHDiJ8453BaaM ver=0.0.2
 webtunnel [2001:db8:c934:3cba:7cd2:7e56:c8c9:40a6]:443 412F21AAD09FA4F83AD52186458466BEC5D27795 url=https://cdn-45.triplebit.dev/yaux5diphu8Meiqu ver=0.0.2
-webtunnel [2001:db8:e091:f9eb:f35c:5159:f61c:a762]:443 1508F567C54ECF5373CE2EF3BF02C62EEA1B320E url=https://tor.jmrp.io/7Zkw18j2NWGK9X7PiiPUQRJB ver=0.0.4
 webtunnel [2001:db8:e524:683e:fb8d:e6ee:79c0:f397]:443 DA1ECF055635C1A6ED7F5B5F36296A5E3015CE57 url=https://np601p22.xoomlia.com/hlmb69xo/ ver=0.0.3
 webtunnel [2001:db8:eb48:18d1:b5ac:62d0:da55:f164]:443 B9B09EDFAEA3824D6258DB017002899F368C9943 url=https://pablo.iki.fi/H5cdG6c0tO7sDwZgAfBixLZB ver=0.0.1
 webtunnel [2001:db8:eb48:18d1:b5ac:62d0:da55:f164]:443 B9B09EDFAEA3824D6258DB017002899F368C9943 url=https://pablo.iki.fi/H5cdG6c0tO7sDwZgAfBixLZB ver=0.0.3
